@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvideoconferenceapp=self.webpackChunkvideoconferenceapp||[]).push([[5644],{95644:(e,n,c)=>{c.r(n),c.d(n,{default:()=>a});c(72791);var r=c(80184);function a(){return(0,r.jsx)(r.Fragment,{})}}}]);
+//# sourceMappingURL=5644.57e11d0c.chunk.js.map
